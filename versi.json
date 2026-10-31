@@ -1,0 +1,10 @@
+{
+  "versi": "7.15.5",
+  "tanggal": "2026-11-01",
+  "minimal": "",
+  "catatan": [
+    "Di semua alat: bila file dari Google Drive / WhatsApp gagal dibaca (izin file dicabut HP), kini muncul pesan untuk memilih ulang file, bukan diam saja.",
+    "Izin aplikasi lebih sedikit (dari 7.15.4)."
+  ],
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.15.5/AREngineering_7.15.5.apk"
+}
