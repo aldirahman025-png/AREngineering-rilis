@@ -1,12 +1,11 @@
 {
-  "versi": "7.15.6",
+  "versi": "7.16.0",
   "tanggal": "2026-11-01",
   "minimal": "",
   "catatan": [
-    "Akun lebih andal: sesi masuk diperbarui otomatis. Bila sesi berakhir, aplikasi meminta masuk lagi (dulu Asisten AI dan Cadangan di akun gagal tanpa pesan).",
-    "Tombol \"Kirim masukan\" di Hitungan tambang, Model 3D, dan Layar Model: ceritakan apa yang kurang langsung ke pengembang.",
-    "Layar \"Apa yang baru\" seperti ini muncul sekali setiap kali aplikasi diperbarui.",
-    "Di semua alat: bila file gagal dibaca (izin file dicabut HP), muncul pesan untuk memilih ulang file."
+    "Asisten AI kini memakai layanan AI gratis (Google Gemini, Groq, Mistral, OpenRouter). Bila kuota satu AI habis, pertanyaan otomatis dijawab AI berikutnya.",
+    "Bila semua AI sedang penuh, ada tombol untuk menyalin pertanyaan ke ChatGPT atau Gemini milik Anda sendiri.",
+    "Kebijakan privasi diperbarui untuk layanan AI yang baru (Anda akan diminta menyetujuinya sekali)."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.15.6/AREngineering_7.15.6.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.16.0/AREngineering_7.16.0.apk"
 }
