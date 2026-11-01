@@ -1,11 +1,10 @@
 {
-  "versi": "7.16.0",
+  "versi": "7.16.1",
   "tanggal": "2026-11-01",
   "minimal": "",
   "catatan": [
-    "Asisten AI kini memakai layanan AI gratis (Google Gemini, Groq, Mistral, OpenRouter). Bila kuota satu AI habis, pertanyaan otomatis dijawab AI berikutnya.",
-    "Bila semua AI sedang penuh, ada tombol untuk menyalin pertanyaan ke ChatGPT atau Gemini milik Anda sendiri.",
-    "Kebijakan privasi diperbarui untuk layanan AI yang baru (Anda akan diminta menyetujuinya sekali)."
+    "Perbaikan: kartu \"Versi baru tersedia\" tidak lagi muncul setelah aplikasi sudah diperbarui ke versi tersebut.",
+    "Asisten AI lebih hemat kuota sehingga lebih jarang penuh."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.16.0/AREngineering_7.16.0.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.16.1/AREngineering_7.16.1.apk"
 }
