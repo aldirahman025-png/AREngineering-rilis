@@ -1,10 +1,10 @@
 {
-  "versi": "7.16.1",
+  "versi": "7.17.0",
   "tanggal": "2026-11-01",
   "minimal": "",
   "catatan": [
-    "Perbaikan: kartu \"Versi baru tersedia\" tidak lagi muncul setelah aplikasi sudah diperbarui ke versi tersebut.",
-    "Asisten AI lebih hemat kuota sehingga lebih jarang penuh."
+    "Pengguna baru disambut pilihan \"Mau coba apa dulu?\": 4 pekerjaan paling dicari (galian & timbunan, luas tanah, beda tinggi, GPS ke UTM). Sekali ketuk, aplikasi memandu langkah demi langkah dengan contoh data.",
+    "Tombol cepat ke Hitungan tambang dari layar sambutan."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.16.1/AREngineering_7.16.1.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.17.0/AREngineering_7.17.0.apk"
 }
