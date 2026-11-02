@@ -1,11 +1,11 @@
 {
-  "versi": "7.19.0",
+  "versi": "7.20.0",
   "tanggal": "2026-11-02",
   "minimal": "",
   "catatan": [
-    "Baru: 📷 Baca tabel dari foto / PDF di Model 3D. Foto tabel koordinat atau pilih PDF, lalu angkanya masuk ke isian Existing, As-built, atau Design.",
-    "PDF digital dibaca langsung tanpa internet. Foto dan scan dibaca AI gratis (paket Profesional/uji coba).",
-    "Hasil wajib diperiksa dulu: sel yang AI ragu ditandai kuning, angka janggal oranye, bisa dikoreksi sebelum dipakai. Kolom ID/E/N/Z/Kode ditebak otomatis."
+    "Beranda baru yang lebih ringkas: kartu pekerjaan terakhir dengan gambar model 3D, galian, timbunan, luas, dan progres. Sekali ketuk Buka, pekerjaan Model 3D terbuka lagi lengkap dengan datanya, walau aplikasi sudah ditutup.",
+    "Hitung cepat: ikon besar khusus survei untuk alat yang terakhir dipakai dan alat populer (galian & timbunan, luas, beda tinggi, GPS ke UTM, pasang patok, baca tabel dari foto).",
+    "Minggu ini: grafik hitungan 7 hari terakhir dan hasil terakhir dari riwayat."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.19.0/AREngineering_7.19.0.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.20.0/AREngineering_7.20.0.apk"
 }
