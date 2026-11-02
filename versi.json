@@ -1,10 +1,12 @@
 {
-  "versi": "7.17.1",
+  "versi": "7.18.0",
   "tanggal": "2026-11-02",
   "minimal": "",
   "catatan": [
-    "Model 3D layar penuh: tombol TIN, Kontur, Garis nol, dan Titik untuk menyembunyikan jaring segitiga & kontur langsung di tampilan 3D.",
-    "Garis nol lebih bersih: beda tinggi di bawah 5 cm (derau ukur di area yang belum dikerjakan) tidak lagi digambar sebagai garis nol."
+    "Model 3D & Layar Model: interval warna galian/timbunan bisa dipilih (5 cm, 10 cm, 20 cm, 25 cm, 50 cm, 1 m), dan beda kecil bisa dianggap 'tidak berubah' (abu-abu) agar area yang belum dikerjakan terpisah jelas.",
+    "Template warna baru 'Kontras': galian kuning→merah tua, timbunan toska→biru tua. Tiap kelas beda jelas.",
+    "Layar Model: galian & timbunan dikirim per kelas kedalaman/tinggi (satu layer per kelas, urut dangkal→dalam), bisa dinyalakan/dimatikan untuk memisah area sendiri.",
+    "Model 3D memperingatkan titik nyasar (kelompok kecil yang jauh dari lokasi, mis. kode GL ratusan meter) dengan tombol Buang & hitung ulang."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.17.1/AREngineering_7.17.1.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.18.0/AREngineering_7.18.0.apk"
 }
