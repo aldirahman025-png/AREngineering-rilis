@@ -1,12 +1,11 @@
 {
-  "versi": "7.18.0",
+  "versi": "7.19.0",
   "tanggal": "2026-11-02",
   "minimal": "",
   "catatan": [
-    "Model 3D & Layar Model: interval warna galian/timbunan bisa dipilih (5 cm, 10 cm, 20 cm, 25 cm, 50 cm, 1 m), dan beda kecil bisa dianggap 'tidak berubah' (abu-abu) agar area yang belum dikerjakan terpisah jelas.",
-    "Template warna baru 'Kontras': galian kuning→merah tua, timbunan toska→biru tua. Tiap kelas beda jelas.",
-    "Layar Model: galian & timbunan dikirim per kelas kedalaman/tinggi (satu layer per kelas, urut dangkal→dalam), bisa dinyalakan/dimatikan untuk memisah area sendiri.",
-    "Model 3D memperingatkan titik nyasar (kelompok kecil yang jauh dari lokasi, mis. kode GL ratusan meter) dengan tombol Buang & hitung ulang."
+    "Baru: 📷 Baca tabel dari foto / PDF di Model 3D. Foto tabel koordinat atau pilih PDF, lalu angkanya masuk ke isian Existing, As-built, atau Design.",
+    "PDF digital dibaca langsung tanpa internet. Foto dan scan dibaca AI gratis (paket Profesional/uji coba).",
+    "Hasil wajib diperiksa dulu: sel yang AI ragu ditandai kuning, angka janggal oranye, bisa dikoreksi sebelum dipakai. Kolom ID/E/N/Z/Kode ditebak otomatis."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.18.0/AREngineering_7.18.0.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.19.0/AREngineering_7.19.0.apk"
 }
