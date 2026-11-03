@@ -1,11 +1,11 @@
 {
-  "versi": "7.22.0",
+  "versi": "7.23.0",
   "tanggal": "2026-11-03",
   "minimal": "",
   "catatan": [
-    "Proyek saya (menu Proyek): simpan data ukur bertingkat, proyek → cluster/area → tahap (MC 0, desain, clearing, opname MC, as-built jalan/kavling, lapis perkerasan). Contoh: Ciputra Sentul → Cluster Cianti → MC 0, clearing, as-built.",
-    "Galian/timbunan kumulatif terhadap MC 0, progres terhadap desain, dan volume serta tebal tiap lapis perkerasan dihitung otomatis per cluster. Dua data mana saja bisa dibuka di Model 3D sekali ketuk, rekap bisa diunduh CSV.",
-    "Agar tidak lupa: cek titik kembar & titik nyasar saat simpan (bisa dibuang sekali ketuk), saran langkah berikutnya tiap cluster, dan Analisis proyek AI per cluster. Data tersimpan di HP dan ikut Cadangan."
+    "Laporan proyek profesional (Proyek saya → 📄 Laporan proyek): sampul dengan peta, ringkasan total proyek, rekap volume per cluster dengan status, dan grafik progres terhadap waktu.",
+    "Satu bab per cluster: rekap per tahap (galian periode & kumulatif, progres), lapis perkerasan, peta galian/timbunan berwarna (legenda, skala, grid koordinat, arah utara, garis nol), penampang memanjang & melintang dengan garis desain, distribusi kedalaman, dan tabel kualitas data.",
+    "Temuan & rekomendasi (pemeriksaan otomatis + hasil AI bila sudah dijalankan), lembar pengesahan, dan kronologi di lampiran. Pemeriksaan 'galian melonjak' tidak lagi keliru menandai kemajuan normal yang masih di bawah rencana."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.22.0/AREngineering_7.22.0.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.23.0/AREngineering_7.23.0.apk"
 }
