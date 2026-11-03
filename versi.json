@@ -1,11 +1,11 @@
 {
-  "versi": "7.21.0",
+  "versi": "7.22.0",
   "tanggal": "2026-11-03",
   "minimal": "",
   "catatan": [
-    "Analisis proyek dengan AI (halaman Proyek): setiap hasil yang disimpan ke riwayat dan setiap hitungan galian/timbunan di Model 3D tercatat di jurnal proyek yang sedang aktif. AI merangkum kemajuan, menemukan kesalahan, membuat kesimpulan, rekomendasi, dan laporan PDF.",
-    "Pemeriksaan otomatis tanpa internet: hasil di luar toleransi, titik nyasar, galian turun atau melonjak antar tahap MC, galian melebihi rencana, jeda data panjang.",
-    "Contoh proyek 'Perumahan Kahuripan' untuk mencoba langsung, dari MC 0 sampai MC 100. Data proyek hanya dikirim ke AI saat kamu menekan tombol, tanpa koordinat titik."
+    "Proyek saya (menu Proyek): simpan data ukur bertingkat, proyek → cluster/area → tahap (MC 0, desain, clearing, opname MC, as-built jalan/kavling, lapis perkerasan). Contoh: Ciputra Sentul → Cluster Cianti → MC 0, clearing, as-built.",
+    "Galian/timbunan kumulatif terhadap MC 0, progres terhadap desain, dan volume serta tebal tiap lapis perkerasan dihitung otomatis per cluster. Dua data mana saja bisa dibuka di Model 3D sekali ketuk, rekap bisa diunduh CSV.",
+    "Agar tidak lupa: cek titik kembar & titik nyasar saat simpan (bisa dibuang sekali ketuk), saran langkah berikutnya tiap cluster, dan Analisis proyek AI per cluster. Data tersimpan di HP dan ikut Cadangan."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.21.0/AREngineering_7.21.0.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.22.0/AREngineering_7.22.0.apk"
 }
