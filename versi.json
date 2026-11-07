@@ -1,12 +1,12 @@
 {
-  "versi": "7.25.0",
+  "versi": "7.26.0",
   "tanggal": "2026-11-07",
   "minimal": "",
   "catatan": [
-    "Baru: 🧭 Pemandu 4 langkah untuk hitung galian & timbunan: nama pekerjaan → data tanah asli (MC 0) → data sesudah dikerjakan → hasil.",
-    "Hasil dijelaskan dengan bahasa sehari-hari: tanah lebih/kurang, perkiraan rit truk, luas, progres, gambar 3D berwarna, langsung ke laporan PDF.",
-    "Data dicek otomatis: titik jauh/salah ketik, koordinat derajat, data tidak bertumpuk, tanggal terbalik.",
-    "Mode Sederhana: Ruang Kerja memakai istilah awam (Titik ukur, Permukaan tanah, Galian & timbunan) dan langsung membuka peta."
+    "Ruang Kerja versi HP yang jelas: pilih bagian & perbandingan di atas, angka galian/timbunan besar + artinya, tab Peta · 3D · Penampang · Data.",
+    "Rapikan data dengan tombol berlabel (buang titik, hapus segitiga, batas, sisi maks), buat garis as untuk penampang, penampang muat di layar HP.",
+    "Peta: angka beda tinggi tidak bertumpuk; Ruang Kerja langsung membuka hasil utama (MC 0 → data terakhir).",
+    "Tampilan lengkap gaya Civil 3D tetap ada: ⋯ → Tampilan lengkap (selalu di tablet/laptop)."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.25.0/AREngineering_7.25.0.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.26.0/AREngineering_7.26.0.apk"
 }
