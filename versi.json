@@ -1,11 +1,14 @@
 {
-  "versi": "7.23.0",
-  "tanggal": "2026-11-03",
+  "versi": "7.24.0",
+  "tanggal": "2026-11-07",
   "minimal": "",
   "catatan": [
-    "Laporan proyek profesional (Proyek saya → 📄 Laporan proyek): sampul dengan peta, ringkasan total proyek, rekap volume per cluster dengan status, dan grafik progres terhadap waktu.",
-    "Satu bab per cluster: rekap per tahap (galian periode & kumulatif, progres), lapis perkerasan, peta galian/timbunan berwarna (legenda, skala, grid koordinat, arah utara, garis nol), penampang memanjang & melintang dengan garis desain, distribusi kedalaman, dan tabel kualitas data.",
-    "Temuan & rekomendasi (pemeriksaan otomatis + hasil AI bila sudah dijalankan), lembar pengesahan, dan kronologi di lampiran. Pemeriksaan 'galian melonjak' tidak lagi keliru menandai kemajuan normal yang masih di bawah rencana."
+    "Tampilan baru: Beranda menjadi Dasbor proyek — galian, timbunan, progres terhadap rencana, data ukur, progres per cluster, perlu perhatian, grafik progres, aksi cepat (Ruang Kerja, Data ukur, Laporan, Analisis AI, Model 3D, CAD), lanjutkan pekerjaan, aktivitas 7 hari; semua alat hitung tetap di bawahnya. Menu bawah: Dasbor · Proyek · Kerja · CAD · Alat.",
+    "Ruang Kerja proyek bergaya Civil 3D (Proyek saya → 🖥 Buka Ruang Kerja): Prospector (Point Groups, Surfaces, Volume Surfaces per cluster), model space gelap dengan garis TIN, panel Properties, toolbar ikon, dan status bar koordinat E, N, Z.",
+    "Alignment & penampang dua surface di Ruang Kerja (seperti Civil 3D): buat alignment dengan ketuk di peta atau koordinat, sample line tiap interval + STA tambahan dengan lebar kiri/kanan, cross section Existing (MC 0) vs opname dengan pita jarak/elevasi dan tabel material (Ground Removed/Ground Fill), long section dengan pita STA/jarak/elevasi, volume Average End Area dibandingkan volume TIN di koridor, dan Laporan Joint Survey Cut & Fill sekali ketuk.",
+    "Ruang Kerja: tombol 3D (putar dengan geser, zoom dengan cubit) untuk surface, volume, alignment & sample line; tombol CAD & citra mengirim TIN, galian/timbunan, label cut/fill per grid, alignment, sample line ke CAD dengan sistem koordinat proyek sehingga citra satelit/citra sendiri langsung jadi latar. Laporan Joint Survey format Owner–Kontraktor: berita acara, No. dokumen, tanda tangan per pihak dengan jabatan & nama. Menu dirapikan: alat yang tumpang tindih disembunyikan (tetap bisa dicari), nama alat diperjelas.",
+    "Surface dengan langkah sama untuk MC 0, desain, MC 25 … as-built, lapis: point group (pilih kode, hapus titik dengan ketuk), batas (convex hull, batas luar otomatis ketat-longgar, koordinat), sisi segitiga maksimum dengan saran, hapus/pulihkan segitiga dengan ketuk, terapkan ke tahap lain. Simpan → volume, rekap, Model 3D, dan laporan dibangun ulang otomatis.",
+    "Volume Surface: peta galian (merah) / timbunan (hijau) dengan label beda tinggi per grid 1–20 m seperti Civil 3D (galian dalam kurung), garis nol, dan beda tinggi di titik yang diketuk. Laporan proyek memuat tabel definisi surface tiap tahap."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.23.0/AREngineering_7.23.0.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.24.0/AREngineering_7.24.0.apk"
 }
