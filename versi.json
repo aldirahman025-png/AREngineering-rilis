@@ -1,12 +1,12 @@
 {
-  "versi": "7.24.3",
+  "versi": "7.25.0",
   "tanggal": "2026-11-07",
   "minimal": "",
   "catatan": [
-    "Ruang Kerja tersimpan otomatis (tanpa tombol Simpan), tanda ✓ Tersimpan, tombol ✓ Selesai, dan panduan Cara kerja.",
-    "Halaman Proyek dirapikan: Proyek saya, Analisis AI, Cadangan di atas; bagian lama dipindah ke Lanjutan. Model 3D: tombol Simpan ke Proyek saya.",
-    "Perbaikan: memulihkan cadangan (file atau akun) tidak lagi bisa kehilangan riwayat karena aplikasi memuat ulang terlalu cepat.",
-    "Kartu \"Versi baru tersedia\" bisa digeser sampai tombol Unduh."
+    "Baru: 🧭 Pemandu 4 langkah untuk hitung galian & timbunan: nama pekerjaan → data tanah asli (MC 0) → data sesudah dikerjakan → hasil.",
+    "Hasil dijelaskan dengan bahasa sehari-hari: tanah lebih/kurang, perkiraan rit truk, luas, progres, gambar 3D berwarna, langsung ke laporan PDF.",
+    "Data dicek otomatis: titik jauh/salah ketik, koordinat derajat, data tidak bertumpuk, tanggal terbalik.",
+    "Mode Sederhana: Ruang Kerja memakai istilah awam (Titik ukur, Permukaan tanah, Galian & timbunan) dan langsung membuka peta."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.24.3/AREngineering_7.24.3.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.25.0/AREngineering_7.25.0.apk"
 }
