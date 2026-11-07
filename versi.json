@@ -1,12 +1,12 @@
 {
-  "versi": "7.24.2",
+  "versi": "7.24.3",
   "tanggal": "2026-11-07",
   "minimal": "",
   "catatan": [
-    "Ruang Kerja kini tersimpan otomatis — tidak ada tombol Simpan. Tanda ✓ Tersimpan otomatis selalu terlihat di kanan atas.",
-    "Tombol ✓ Selesai menutup Ruang Kerja dan kembali ke Dasbor dengan hasil terbaru.",
-    "Panduan singkat \"Cara kerja\" (tombol ?) dan tombol Kembalikan untuk membatalkan perubahan surface.",
+    "Ruang Kerja tersimpan otomatis (tanpa tombol Simpan), tanda ✓ Tersimpan, tombol ✓ Selesai, dan panduan Cara kerja.",
+    "Halaman Proyek dirapikan: Proyek saya, Analisis AI, Cadangan di atas; bagian lama dipindah ke Lanjutan. Model 3D: tombol Simpan ke Proyek saya.",
+    "Perbaikan: memulihkan cadangan (file atau akun) tidak lagi bisa kehilangan riwayat karena aplikasi memuat ulang terlalu cepat.",
     "Kartu \"Versi baru tersedia\" bisa digeser sampai tombol Unduh."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.24.2/AREngineering_7.24.2.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.24.3/AREngineering_7.24.3.apk"
 }
