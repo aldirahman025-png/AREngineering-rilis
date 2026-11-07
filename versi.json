@@ -1,12 +1,12 @@
 {
-  "versi": "7.24.1",
+  "versi": "7.24.2",
   "tanggal": "2026-11-07",
   "minimal": "",
   "catatan": [
-    "Dasbor proyek baru: galian, timbunan, progres, peringatan, dan aksi cepat. Menu bawah: Dasbor · Proyek · Kerja · CAD · Alat.",
-    "Ruang Kerja gaya Civil 3D: point group, surface, volume dengan label cut/fill per grid, tampilan 3D, kirim ke CAD & citra.",
-    "Alignment & penampang: cross section, long section, volume Average End Area, dan Laporan Joint Survey format Owner–Kontraktor.",
-    "Perbaikan: kartu \"Versi baru tersedia\" kini bisa digeser sampai tombol Unduh."
+    "Ruang Kerja kini tersimpan otomatis — tidak ada tombol Simpan. Tanda ✓ Tersimpan otomatis selalu terlihat di kanan atas.",
+    "Tombol ✓ Selesai menutup Ruang Kerja dan kembali ke Dasbor dengan hasil terbaru.",
+    "Panduan singkat \"Cara kerja\" (tombol ?) dan tombol Kembalikan untuk membatalkan perubahan surface.",
+    "Kartu \"Versi baru tersedia\" bisa digeser sampai tombol Unduh."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.24.1/AREngineering_7.24.1.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.24.2/AREngineering_7.24.2.apk"
 }
