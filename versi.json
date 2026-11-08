@@ -1,12 +1,11 @@
 {
-  "versi": "7.26.0",
-  "tanggal": "2026-11-07",
+  "versi": "7.26.1",
+  "tanggal": "2026-11-08",
   "minimal": "",
   "catatan": [
-    "Ruang Kerja versi HP yang jelas: pilih bagian & perbandingan di atas, angka galian/timbunan besar + artinya, tab Peta · 3D · Penampang · Data.",
-    "Rapikan data dengan tombol berlabel (buang titik, hapus segitiga, batas, sisi maks), buat garis as untuk penampang, penampang muat di layar HP.",
-    "Peta: angka beda tinggi tidak bertumpuk; Ruang Kerja langsung membuka hasil utama (MC 0 → data terakhir).",
-    "Tampilan lengkap gaya Civil 3D tetap ada: ⋯ → Tampilan lengkap (selalu di tablet/laptop)."
+    "Perbaikan garis as: tersimpan di cluster yang datanya dilewati (dulu bisa masuk cluster lain sehingga tampil di luar data dan penampang 0).",
+    "Mulai garis as → peta pindah dulu ke data cluster itu; garis as di luar data diberi peringatan dan bisa dihapus (🗑) di tab Penampang.",
+    "Ruang Kerja versi HP: pilih bagian, angka galian/timbunan besar, tab Peta · 3D · Penampang · Data; ✓ Selesai garis as tidak menutup Ruang Kerja."
   ],
-  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.26.0/AREngineering_7.26.0.apk"
+  "apk": "https://github.com/aldirahman025-png/AREngineering-rilis/releases/download/v7.26.1/AREngineering_7.26.1.apk"
 }
